@@ -10,6 +10,6 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I find time to read books.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarim2000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarim2000&theme=tokyonight)](https://github.com/sarim2000/github-readme-stats)
 ![Sarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarim2000&show_icons=true&theme=tokyonight)
 
