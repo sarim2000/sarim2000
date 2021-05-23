@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sarim2000/sarim2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an E-Commerce Website.
+- 🌱 I’m currently learning React.
+- 🤔 I’m looking for help with Data Structures and Algorithm.
+- 💬 Ask me about DSA, MERN stack or any other tech stuff.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarim2000/) 
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: I find time to read books.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarim2000&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Sarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarim2000&show_icons=true&theme=tokyonight)
+
