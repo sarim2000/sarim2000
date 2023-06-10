@@ -2,9 +2,6 @@
 
 
 
-- 🔭 I’m currently working on an E-Commerce Website.
-- 🌱 I’m currently learning Kotlin.
-- 🤔 I’m looking for help with Data Structures and Algorithm.
 - 💬 Ask me about DSA, MERN stack or any other tech stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarim2000/) 
 - 😄 Pronouns: He/His.
