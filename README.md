@@ -61,7 +61,7 @@ Here are a few projects I've worked on:
 <div align="center">
   <a href="mailto:sarimahmed3520@gmail.com"><img src="https://img.shields.io/badge/Email-sarimahmed3520@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sarim2000/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/sarim2000"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://twitter.com/underdog_2035"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 </div>
 
 ## 📊 GitHub Stats
