@@ -55,7 +55,6 @@ Here are a few projects I've worked on:
 - [**TrackEverything**](https://github.com/sarim2000/trackeverything) ![GitHub stars](https://img.shields.io/github/stars/sarim2000/trackeverything?style=social) ![GitHub forks](https://img.shields.io/github/forks/sarim2000/trackeverything?style=social)
   - TrackEverything is a comprehensive media tracking application that allows users to keep track of books, movies, TV shows, and games. It aims to provide personalized recommendations using AI based on users' watch lists and enable sharing of curated lists.
 
-
 ## 📫 Get in Touch
 
 <div align="center">
@@ -70,5 +69,6 @@ Here are a few projects I've worked on:
   <img src="https://github-readme-stats.vercel.app/api?username=sarim2000&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarim2000&layout=compact&theme=radical" alt="Top Languages">
 </div>
+
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
