@@ -4,7 +4,6 @@
   <h3>Full-Stack Engineer & Architect</h3>
   <p>Building end-to-end solutions for complex problems, from on-device AI to cloud infrastructure at scale.</p>
   
-  <a href="mailto:sarimahmed3520@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sarim2000/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/sarim2000"><img src="https://img.shields.io/github/followers/sarim2000?label=Follow&style=for-the-badge&color=blue" alt="GitHub Followers"></a>
 </div>
